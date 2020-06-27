@@ -1,0 +1,100 @@
+{
+	"commands": [
+		{
+			"parent": "root",
+			"usage": "math",
+			"help": "math commands",
+			"formula": {
+				"path": "",
+				"bin": "",
+				"binLinux": "",
+				"binDarwin": "",
+				"binWindows": "",
+				"bundle": "",
+				"config": "",
+				"repoUrl": ""
+			},
+			"Repo": ""
+		},
+		{
+			"parent": "root_math",
+			"usage": "sum",
+			"help": "math sum",
+			"formula": {
+				"path": "",
+				"bin": "",
+				"binLinux": "",
+				"binDarwin": "",
+				"binWindows": "",
+				"bundle": "",
+				"config": "",
+				"repoUrl": ""
+			},
+			"Repo": ""
+		},
+		{
+			"parent": "root_math_sum",
+			"usage": "numbers",
+			"help": "sum numbers",
+			"formula": {
+				"path": "math/sum/numbers",
+				"bin": "numbers.sh",
+				"binLinux": "numbers.sh",
+				"binDarwin": "numbers.sh",
+				"binWindows": "numbers.bat",
+				"bundle": "${so}.zip",
+				"config": "config.json",
+				"repoUrl": ""
+			},
+			"Repo": ""
+		},
+		{
+			"parent": "root",
+			"usage": "brazil",
+			"help": "brazil commands",
+			"formula": {
+				"path": "",
+				"bin": "",
+				"binLinux": "",
+				"binDarwin": "",
+				"binWindows": "",
+				"bundle": "",
+				"config": "",
+				"repoUrl": ""
+			},
+			"Repo": ""
+		},
+		{
+			"parent": "root_brazil",
+			"usage": "get",
+			"help": "brazil get",
+			"formula": {
+				"path": "",
+				"bin": "",
+				"binLinux": "",
+				"binDarwin": "",
+				"binWindows": "",
+				"bundle": "",
+				"config": "",
+				"repoUrl": ""
+			},
+			"Repo": ""
+		},
+		{
+			"parent": "root_brazil_get",
+			"usage": "address",
+			"help": "get address",
+			"formula": {
+				"path": "brazil/get/address",
+				"bin": "address.sh",
+				"binLinux": "address.sh",
+				"binDarwin": "address.sh",
+				"binWindows": "address.bat",
+				"bundle": "${so}.zip",
+				"config": "config.json",
+				"repoUrl": ""
+			},
+			"Repo": ""
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+  "description": "Sample inputs in Ritchie.",
+  "inputs": [
+    {
+      "name": "sample_text",
+      "type": "text",
+      "label": "Type the CEP: ",
+      "cache": {
+        "active": true,
+        "qty": 6,
+        "newLabel": "Type a new CEP"
+      }
+    }
+  ]
+}

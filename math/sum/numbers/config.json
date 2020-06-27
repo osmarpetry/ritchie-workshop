@@ -1,0 +1,25 @@
+{
+  "description": "Sample inputs in Ritchie.",
+  "inputs" : [
+    {
+      "name" : "number_01",
+      "type" : "text",
+      "label" : "Numer 01: ",
+      "cache" : {
+        "active": true,
+        "qty" : 6,
+        "newLabel" : "Type a new number. "
+      }
+    },
+    {
+      "name" : "number_02",
+      "type" : "text",
+      "label" : "Numer 02: ",
+      "cache" : {
+        "active": true,
+        "qty" : 6,
+        "newLabel" : "Type a new number. "
+      }
+    }
+  ]
+}
